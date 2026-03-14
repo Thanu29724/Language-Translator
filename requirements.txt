@@ -1,8 +1,0 @@
-langchain
-langchain_groq
-langchain_core
-streamlit
-langchain-openai
-fastapi
-uvicorn
-sse-starlette
